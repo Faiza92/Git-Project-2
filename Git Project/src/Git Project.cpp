@@ -10,8 +10,8 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello Wokkjjhrld!!!" << endl; // prints !!!Hello World!!!
-	cout <<"lol what is  this";//detect change?/rjhbvgdrjkbvikerjbe
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout <<"lol what is  this";//I hope it works now/whyyyY!!!!
 	cout <<"hi";
 	return 0;
 }
